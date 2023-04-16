@@ -80,3 +80,45 @@ Flag is: ***icmp_flood;8.8.8.8;172.16.11.1;***
 ![ScreenShot](screenshots/9.png)
 
 Flag is: ***udp_flood;127.0.0.1;172.16.11.1;udp;***
+
+
+## Task 6: Network Traffic Dump №6 (not solved)
+
+![ScreenShot](screenshots/10.png)
+
+![ScreenShot](screenshots/11.png)
+
+Flag is: syn_flood,udp_flood;172.16.11.5;172.16.11.1;tcp,udp;
+
+## Task 7: Network Traffic Dump №7
+> Опишите атаку: 
+> 1. Назовите ее тип 
+> 2. Назовите атакованный порт
+> Формат флага: attack_ssh;22
+
+![ScreenShot](screenshots/12.png)
+
+Flag is: ***ack_flood;80***
+
+
+## Task 8: Network Traffic Dump №8
+
+![ScreenShot](screenshots/13.png)
+
+Flag is: ***00:0c:29:aa:57:b2;172.16.11.1;***
+
+
+## Task 9: Memory Dump of Windows №1
+> С помощью команды malfind определите первый подозрительный процесс, назовите его имя и PID
+> Выясните сколько УЗ было на компьютере
+
+![ScreenShot](screenshots/14.png)
+
+![ScreenShot](screenshots/15.png)
+
+![ScreenShot](screenshots/16.png)
+
+Flag is: ***svchost.exe;pid:764;4;***
+
+
+## Task 10: Memory Dump of Windows №2
