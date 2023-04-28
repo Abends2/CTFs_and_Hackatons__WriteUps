@@ -23,7 +23,7 @@
 
 ## Stego: Mint
 
-![ScreenShot](screenshots/23.png)
+![ScreenShot](screenshots/23.jpg)
 
 ![ScreenShot](screenshots/24.png)
 
