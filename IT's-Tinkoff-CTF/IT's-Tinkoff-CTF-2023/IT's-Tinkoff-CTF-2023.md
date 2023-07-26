@@ -167,5 +167,31 @@ https://its-broken-cb23byi7.spbctf.ru/060648ac9456adba9740f7b2b119abf2bcf194c2/
 
 ![ScreenShot](screenshots/29.png)
 
-https://its-tinderella-w2wfm3xc.spbctf.ru/api/princess-sputnik?id=2
+Переходим на сайт и наблюдаем простой аналог Тиндера. Естественно, лайкаем всех принцесс:
+
+![ScreenShot](screenshots/30.png)
+
+![ScreenShot](screenshots/31.png)
+
+Нажав на кнопку "Купить премиум", нас предупреждают об ограничении покупки якобы в нашем регионе:
+
+![ScreenShot](screenshots/32.png)
+
+В исходном коде находим метод, который позволяет "обращаться напрямую к принцессе", используя id:
+
+![ScreenShot](screenshots/33.png)
+
+Пишем небоьшой скрипт для автоматизации применения параметра id:
+
+![ScreenShot](screenshots/34.png)
+
+Запускаем программу и в одном из ответов на наши запросы находим флаг (https://its-tinderella-w2wfm3xc.spbctf.ru/api/princess-sputnik?id=2):
+
+![ScreenShot](screenshots/35.png)
+
+**its{Its_a_mE_MarIO_FOUnd_a_vuln_and_FOUNd_My_loV3}**
+
+---
+
+
 
