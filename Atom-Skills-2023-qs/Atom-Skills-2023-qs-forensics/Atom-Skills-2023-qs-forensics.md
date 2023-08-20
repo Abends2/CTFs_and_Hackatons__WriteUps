@@ -133,6 +133,3 @@ Flag is: ***svchost.exe;pid:764;4;***
 
 ---
 
-## Task 10: Memory Dump of Windows №2
-
----
