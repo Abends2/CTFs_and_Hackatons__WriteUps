@@ -56,7 +56,7 @@
 
 Исходное изображение:
 
-![ScreenShot](screenshots/9.jpg)
+![ScreenShot](screenshots/9.png)
 
 Через binwalk находим вложенный в изображение архив формата RAR:
 
