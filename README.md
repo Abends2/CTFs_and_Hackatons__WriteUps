@@ -13,3 +13,5 @@
 | Atom Skills Quals 2023 2/2 CTF       | :green_book:[AS 2023 Quals 2/2](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF/Atom-Skills-2023-qs-CTF.md)              | 16.04.2023              | 2nd :trophy: | Duo          |
 | MireaCTF - 3                         | :green_book:[MireaCTF-3](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                             | 22.04.2023 - 23.04.2023 | 3rd :trophy: | o1d_bu7_go1d |
 | Atom Skills 2023                     | :green_book:[Atom Skills 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                       | 16.06.2023 - 21.06.2023 | 6th          | Duo          |
+| IT's Tinkoff CTF 2023                | :green_book:[IT's Tinkoff CTF 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                  | -                       | -            | -            |
+| Digital Skills 2023                  | :green_book:[Digital Skills 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                    | 20.09.2023 - 23.09.2023 | 3rd :trophy: | Duo          |
