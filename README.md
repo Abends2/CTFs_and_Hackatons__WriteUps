@@ -15,3 +15,4 @@
 | Atom Skills 2023                     | :green_book:[Atom Skills 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                       | 16.06.2023 - 21.06.2023 | 6th          | Duo          |
 | IT's Tinkoff CTF 2023                | :green_book:[IT's Tinkoff CTF 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                  | -                       | -            | -            |
 | Digital Skills 2023                  | :green_book:[Digital Skills 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                    | 20.09.2023 - 23.09.2023 | 3rd :trophy: | Duo          |
+| MCTF Training 2023                   | :green_book:[MCTF Training 2023](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                      | 30.09.2023 - 01.10.2023 | 7th          | o1d_bu7_go1d |
