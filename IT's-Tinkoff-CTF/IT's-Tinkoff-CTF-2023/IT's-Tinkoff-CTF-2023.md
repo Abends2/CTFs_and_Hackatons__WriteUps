@@ -193,5 +193,146 @@ https://its-broken-cb23byi7.spbctf.ru/060648ac9456adba9740f7b2b119abf2bcf194c2/
 
 ---
 
+### Web: Кефтеме (easy)
 
+Описание:
+
+![ScreenShot](screenshots/36.png)
+
+![ScreenShot](screenshots/37.png)
+
+![ScreenShot](screenshots/38.png)
+
+![ScreenShot](screenshots/39.png)
+
+![ScreenShot](screenshots/40.png)
+
+![ScreenShot](screenshots/41.png)
+
+![ScreenShot](screenshots/42.png)
+
+![ScreenShot](screenshots/43.png)
+
+![ScreenShot](screenshots/44.png)
+
+![ScreenShot](screenshots/45.png)
+
+![ScreenShot](screenshots/46.png)
+
+![ScreenShot](screenshots/47.png)
+
+![ScreenShot](screenshots/48.png)
+
+![ScreenShot](screenshots/49.png)
+
+![ScreenShot](screenshots/50.png)
+
+![ScreenShot](screenshots/51.png)
+
+![ScreenShot](screenshots/52.png)
+
+---
+
+### Crypto: Потерянные в космосе - YES
+
+Описание:
+
+![ScreenShot](screenshots/53.png)
+
+skpf    24c8    1n0t    jhrg    wr55    1mcm    nbub
+96.564,-155.97,-161.71,17.133,143.143,-161.943,48.805
+
+![ScreenShot](screenshots/54.png)
+
+![ScreenShot](screenshots/55.png)
+
+![ScreenShot](screenshots/56.png)
+
+![ScreenShot](screenshots/57.png)
+
+![ScreenShot](screenshots/58.png)
+
+![ScreenShot](screenshots/59.png)
+
+![ScreenShot](screenshots/60.png)
+
+![ScreenShot](screenshots/61.png)
+
+---
+
+### Web: Пиццаувеличитель (easy)
+
+Описание:
+
+![ScreenShot](screenshots/62.png)
+
+
+3 Беконика = 0.01 Гастрофранк
+0.01 Гастрофранк = 4.30 Беконика - профит!
+
+2196.8 Беконик ← текущий
+0.79 Гастрофранков ← текущий
+0.79 Г = 339.70 Б ---> 2196.8 Б + 339.70 Б = 2536.5 Б - профит, но надо автоматизировать!
+
+![ScreenShot](screenshots/63.png)
+
+![ScreenShot](screenshots/64.png)
+
+![ScreenShot](screenshots/65.png)
+
+![ScreenShot](screenshots/66.png)
+
+![ScreenShot](screenshots/67.png)
+
+![ScreenShot](screenshots/68.png)
+
+![ScreenShot](screenshots/69.png)
+
+![ScreenShot](screenshots/70.png)
+
+![ScreenShot](screenshots/71.png)
+
+![ScreenShot](screenshots/72.png)
+
+![ScreenShot](screenshots/73.png)
+
+![ScreenShot](screenshots/74.png)
+
+![ScreenShot](screenshots/75.png)
+
+![ScreenShot](screenshots/76.png)
+
+![ScreenShot](screenshots/77.png)
+
+![ScreenShot](screenshots/78.png)
+
+![ScreenShot](screenshots/79.png)
+
+---
+
+### Web: Бредущий по лезвию (easy)
+
+Описание:
+
+![ScreenShot](screenshots/80.png)
+
+https://its-android-storage-w0yjed7.spbctf.ru/storage/ - 403
+
+http://65.109.236.11:9090/metrics
+
+https://its-private-domain-for-secure-android-storage-qm8w6et.spbctf.ru/storage/
+
+![ScreenShot](screenshots/81.png)
+
+![ScreenShot](screenshots/82.png)
+
+![ScreenShot](screenshots/83.png)
+
+![ScreenShot](screenshots/84.png)
+
+![ScreenShot](screenshots/85.png)
+
+![ScreenShot](screenshots/86.png)
+
+---
 
