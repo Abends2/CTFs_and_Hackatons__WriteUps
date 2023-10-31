@@ -23,5 +23,5 @@
 | Digital Skills 2023                  | :green_book:[Digital Skills 2023](../main/Atom-Skills-2023-qs/Atom-Skills-2023-qs-CTF.md)                                    | 20.09.2023 - 23.09.2023 | 3rd :3rd_place_medal: | Duo          |
 | MCTF Training 2023                   | :green_book:[MCTF Training 2023](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                      | 30.09.2023 - 01.10.2023 | 7th                   | o1d_bu7_go1d |
 | Student CTF 2023 Quals               | :green_book:[Student CTF 2023 Quals](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                  | 22.10.2023              | 6th (вне зачета)      | o1d_bu7_go1d |
-
+| VII Кубок CTF 2023 Quals             | :green_book:[Кубок CTF 2023 Quals](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                    | 28.10.2023 - 29.10.2023 | 56th (общий зачет)    | o1d_bu7_go1d |
 ---
