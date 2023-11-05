@@ -24,5 +24,6 @@
 | MCTF Training 2023                   | :green_book:[MCTF Training 2023](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                      | 30.09.2023 - 01.10.2023 | 7th                                                  | o1d_bu7_go1d |
 | Student CTF 2023 Quals               | :green_book:[Student CTF 2023 Quals](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                  | 22.10.2023              | 6th (вне зачета)                                     | o1d_bu7_go1d |
 | VII Кубок CTF 2023 Quals             | :green_book:[Кубок CTF 2023 Quals](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                    | 28.10.2023 - 29.10.2023 | 56th (общий зачет)                                   | o1d_bu7_go1d |
-| MCTF Junior 2023 Quals               | :green_book:[MCTF Junior 2023 Quals](../main/MCTF/MCTF-Training-2023/MCTF-Training-2023.md)                                  | 04.11.2023 - 05.11.2023 | 1st :1st_place_medal: (зачет СПО), 6th (общий зачет) | o1d_bu7_go1d |
+| MCTF Junior 2023 Quals               | :green_book:[MCTF Junior 2023 Quals](../main/MCTF/MCTF-Junior-Quals-2023/MCTF-Junior-Quals-2023.md)                          | 04.11.2023 - 05.11.2023 | 1st :1st_place_medal: (зачет СПО), 6th (общий зачет) | o1d_bu7_go1d |
+
 ---
