@@ -28,6 +28,6 @@
 | M*CTF Junior 2023 Quals              | :green_book:[M*CTF Junior 2023 Quals](../main/MCTF/MCTF-Junior-Quals-2023/MCTF-Junior-Quals-2023.md)                         | 04.11.2023 - 05.11.2023 | 1st :1st_place_medal: (зачет СПО), 6th (общий зачет) | o1d_bu7_go1d |
 | Хакатон от КибХак                    | :floppy_disk:Разработка решения для обнаружения в сети использования инструментов C2                                         | 13.11.2023 – 19.11.2023 | 2nd :2nd_place_medal:                                | Impulse      |
 | SibirCTF 2023 AD                     | :green_book:SibirCTF 2023 (Write-Ups will be later)                                                                          | 19.11.2023              | 6th                                                  | o1d_bu7_go1d |
-| MireaCTF - 4 Quals                   | :green_book:MireaCTF-4 Quals (No Write-Up)                                                                                   | 19.11.2023              | 10tn                                                 | o1d_bu7_go1d |
+| MireaCTF - 4 Quals                   | :green_book:MireaCTF-4 Quals (No Write-Up)                                                                                   | 19.11.2023              | 10th                                                 | o1d_bu7_go1d |
 
 ---
