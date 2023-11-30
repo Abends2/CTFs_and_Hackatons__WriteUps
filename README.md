@@ -30,5 +30,6 @@
 | Хакатон от КибХак                    | :floppy_disk:Разработка решения для обнаружения в сети использования инструментов C2                                         | 13.11.2023 – 19.11.2023 | 2nd :2nd_place_medal:                                | Impulse      |
 | SibirCTF 2023 AD                     | :green_book:SibirCTF 2023 (Write-Ups will be later)                                                                          | 19.11.2023              | 6th                                                  | o1d_bu7_go1d |
 | MireaCTF - 4 Quals                   | :green_book:No Write-Up                                                                                                      | 19.11.2023              | 10th                                                 | o1d_bu7_go1d |
+| VKACTF Kids 2023                     | :green_book:[VKACTF Kids 2023](../main/VKACTF/VKACTF-Kids-2023/VKACTF-Kids-2023.md)                                          | 25.11.2023 - 26.11.2023 | 107th                                                | Solo         |
 
 ---
