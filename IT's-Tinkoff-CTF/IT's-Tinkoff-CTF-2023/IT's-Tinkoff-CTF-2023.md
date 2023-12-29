@@ -1,5 +1,7 @@
 # IT's Tinkoff CTF 2023
 
+---
+
 ### Web: Зов Аномалий
 Описание:
 
@@ -199,23 +201,41 @@ https://its-broken-cb23byi7.spbctf.ru/060648ac9456adba9740f7b2b119abf2bcf194c2/
 
 ![ScreenShot](screenshots/36.png)
 
+Переходим на сайт:
+
 ![ScreenShot](screenshots/37.png)
+
+Регистрируемся:
 
 ![ScreenShot](screenshots/38.png)
 
+Попадаем на сам магазин:
+
 ![ScreenShot](screenshots/39.png)
+
+Добавим в корзину товар, на который у нас достаточно средств:
 
 ![ScreenShot](screenshots/40.png)
 
+На известен промокод, дающий 5%-ную скидку:
+
 ![ScreenShot](screenshots/41.png)
+
+Ловим запрос через Burp Suite и отправляем в Repeater:
 
 ![ScreenShot](screenshots/42.png)
 
 ![ScreenShot](screenshots/43.png)
 
+Повторяем запрос множество раз (т.е. один и тот же промокод применяется на один товар множество раз):
+
 ![ScreenShot](screenshots/44.png)
 
+В итоге получаем прибавление средств:
+
 ![ScreenShot](screenshots/45.png)
+
+Снова накручиваем, но уже через другой товар, чтобы сумма прибавления была выше:
 
 ![ScreenShot](screenshots/46.png)
 
@@ -227,9 +247,13 @@ https://its-broken-cb23byi7.spbctf.ru/060648ac9456adba9740f7b2b119abf2bcf194c2/
 
 ![ScreenShot](screenshots/50.png)
 
+В итоге нам хватает денег для покупки основного товара:
+
 ![ScreenShot](screenshots/51.png)
 
 ![ScreenShot](screenshots/52.png)
+
+**its{ufFf_b4Rh47nYj_FrON7_ONLY_v4liDa7iON_BYP4s5_KEfT3me}**
 
 ---
 
@@ -239,24 +263,41 @@ https://its-broken-cb23byi7.spbctf.ru/060648ac9456adba9740f7b2b119abf2bcf194c2/
 
 ![ScreenShot](screenshots/53.png)
 
-skpf    24c8    1n0t    jhrg    wr55    1mcm    nbub
-96.564,-155.97,-161.71,17.133,143.143,-161.943,48.805
+Разбиваем geohash на составные части:
+
+| skpf | 24c8 | 1n0t | jhrg | wr55 | 1mcm | nbub |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 96.564 | -155.97 | -161.71 | 17.133 | 143.143 | -161.943 | 48.805 |
 
 ![ScreenShot](screenshots/54.png)
 
+Принцип декодирования через сторонние сервисы:
+
 ![ScreenShot](screenshots/55.png)
+
+Для запуска нам необходимо указать Source и Target координаты:
 
 ![ScreenShot](screenshots/56.png)
 
+Пример ввода неудачных координат:
+
 ![ScreenShot](screenshots/57.png)
+
+На сервисе можно рассчитать geohash:
 
 ![ScreenShot](screenshots/58.png)
 
+Методом проб и ошибок подбираем координаты:
+
 ![ScreenShot](screenshots/59.png)
+
+Запускаемся:
 
 ![ScreenShot](screenshots/60.png)
 
 ![ScreenShot](screenshots/61.png)
+
+**its{w3lc0Me_to_OUr_d3Ar_thRee_DiMeNsioNS}**
 
 ---
 
@@ -266,17 +307,13 @@ skpf    24c8    1n0t    jhrg    wr55    1mcm    nbub
 
 ![ScreenShot](screenshots/62.png)
 
-
-3 Беконика = 0.01 Гастрофранк
-0.01 Гастрофранк = 4.30 Беконика - профит!
-
-2196.8 Беконик ← текущий
-0.79 Гастрофранков ← текущий
-0.79 Г = 339.70 Б ---> 2196.8 Б + 339.70 Б = 2536.5 Б - профит, но надо автоматизировать!
+Регистрируемся на сервисе и попадаем в магазин:
 
 ![ScreenShot](screenshots/63.png)
 
 ![ScreenShot](screenshots/64.png)
+
+Смотрим в сторону обменов:
 
 ![ScreenShot](screenshots/65.png)
 
@@ -286,27 +323,45 @@ skpf    24c8    1n0t    jhrg    wr55    1mcm    nbub
 
 ![ScreenShot](screenshots/68.png)
 
+Как видим, если переводить Беконики в Гастрофранки, а затем обратно, то часть валюты теряется. Операции между одной и той же валютой операции совершать нельзя:
+
 ![ScreenShot](screenshots/69.png)
 
 ![ScreenShot](screenshots/70.png)
 
+А теперь внимательно:
+1) 3 Беконика = 0.01 Гастрофранк
+2) 0.01 Гастрофранк = 4.30 Беконика - **профит**!
+
 ![ScreenShot](screenshots/71.png)
 
+Ловим запрос - нам нужны куки и прочее для автоматизации (обращаем внимание на session)
+
 ![ScreenShot](screenshots/72.png)
+
+Переводим все, что у нас есть в Беконики:
 
 ![ScreenShot](screenshots/73.png)
 
 ![ScreenShot](screenshots/74.png)
 
+Пишем сплойт, который автоматически может конфертировать валюты (не забываем про сессию):
+
 ![ScreenShot](screenshots/75.png)
 
 ![ScreenShot](screenshots/76.png)
 
+Переводим все полученные Гастрофранки в Беконики:
+
 ![ScreenShot](screenshots/77.png)
+
+Итог - нам хватает валюты для покупки флага:
 
 ![ScreenShot](screenshots/78.png)
 
 ![ScreenShot](screenshots/79.png)
+
+**its{rOUnD_FUnCtIoN_c4N_BE_7Ricky}**
 
 ---
 
@@ -316,11 +371,7 @@ skpf    24c8    1n0t    jhrg    wr55    1mcm    nbub
 
 ![ScreenShot](screenshots/80.png)
 
-https://its-android-storage-w0yjed7.spbctf.ru/storage/ - 403
-
-http://65.109.236.11:9090/metrics
-
-https://its-private-domain-for-secure-android-storage-qm8w6et.spbctf.ru/storage/
+Переходим по ссылке и находим далее директорию **/storage/**, нажав на кнопку:
 
 ![ScreenShot](screenshots/81.png)
 
@@ -328,11 +379,33 @@ https://its-private-domain-for-secure-android-storage-qm8w6et.spbctf.ru/storage/
 
 ![ScreenShot](screenshots/83.png)
 
+```sh
+https://its-android-storage-w0yjed7.spbctf.ru/storage/ - 403 Forbidden
+```
+
+Сканим при помощи Nmap хост:
+
 ![ScreenShot](screenshots/84.png)
+
+Находим zeus-admin:
+
+```sh
+http://65.109.236.11:9090/metrics
+```
+
+Видим, что есть обращения к другому хосту (домену):
 
 ![ScreenShot](screenshots/85.png)
 
+Переходим на него:
+
+```sh
+https://its-private-domain-for-secure-android-storage-qm8w6et.spbctf.ru/storage/
+```
+
 ![ScreenShot](screenshots/86.png)
+
+**its{NOW_yoU_h4v3_aLL_7h3_KN0wL3Dge_oF_4NdroID}**
 
 ---
 
