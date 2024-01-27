@@ -31,10 +31,15 @@
 | Хакатон от КибХак                    | :floppy_disk:Разработка решения для обнаружения в сети использования инструментов C2                                         | 13.11.2023 – 19.11.2023 | 2nd :2nd_place_medal:                                | Impulse      |
 | SibirCTF 2023 AD                     | :green_book:[SibirCTF 2023](../main/SibirCTF-2023/README.md)                                                                 | 19.11.2023              | 6th                                                  | o1d_bu7_go1d |
 | MireaCTF - 4 Quals                   | :green_book:No Write-Up                                                                                                      | 19.11.2023              | 10th                                                 | o1d_bu7_go1d |
-| VKACTF Kids 2023                     | :green_book:[VKACTF Kids 2023](../main/VKACTF/VKACTF-Kids-2023/VKACTF-Kids-2023.md)                                          | 25.11.2023 - 26.11.2023 | 107th                                                | Solo         |
 | M*CTF Junior 2023 Finals             | :green_book:No Write-Up                                                                                                      | 02.12.2023              | 3rd :3rd_place_medal: (общий зачет)                  | o1d_bu7_go1d |
 | Мир Крипто 2023                      | :green_book:No Write-Up                                                                                                      | 16.12.2023              | 6th (общий зачет), 4th (среди СПО)                   | o1d_bu7_go1d | 
 | MireaCTF - 4 AD                      | :green_book:No Write-Up                                                                                                      | 17.12.2023              | 4th (вне зачета)                                     | o1d_bu7_go1d |
 
 
 ---
+
+| Training Event                       | Write-Up/Case                                                                                                                | Date                    | Place                                                | Command      |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | :---------------------: | :--------------------------------------------------: | :----------: |
+| VKACTF Kids 2023                     | :green_book:[VKACTF Kids 2023](../main/VKACTF/VKACTF-Kids-2023/VKACTF-Kids-2023.md)                                          | 25.11.2023 - 26.11.2023 | 107th                                                | Solo         |
+| KnightCTF 2024                       | :green_book:[KnightCTF 2024](../main/KnightCTF/KnightCTF-2024/KnightCTF-2024.md)                                             | 20.01.2024 - 21.01.2024 | 55th                                                 | o1d_bu7_go1d |
+| MapnaCTF 2024                        | :green_book:[MapnaCTF 2024](../main/MapnaCTF/MapnaCTF-2024/MapnaCTF-2024.md)                                                 | 20.01.2024 - 21.01.2024 | 411th                                                | o1d_bu7_go1d |
