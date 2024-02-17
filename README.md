@@ -34,7 +34,7 @@
 | M*CTF Junior 2023 Finals             | :green_book:No Write-Up                                                                                                      | 02.12.2023              | 3rd :3rd_place_medal: (общий зачет)                  | o1d_bu7_go1d |
 | Мир Крипто 2023                      | :green_book:No Write-Up                                                                                                      | 16.12.2023              | 6th (общий зачет), 4th (среди СПО)                   | o1d_bu7_go1d | 
 | MireaCTF - 4 AD                      | :green_book:No Write-Up                                                                                                      | 17.12.2023              | 4th (вне зачета)                                     | o1d_bu7_go1d |
-
+| UgraCTF 2024 Quals                   | :green_book:[UgraCTF 2024 Quals](../main/UgraCTF/UgraCTF-2024-Quals/UgraCTF-2024-Quals.md)                                   | 10.02.2024 - 11.02.2024 | Disqualification :x:                                 | o1d_bu7_go1d |
 
 ---
 
